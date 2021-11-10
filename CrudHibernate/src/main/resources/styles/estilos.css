@@ -1,0 +1,36 @@
+
+.ventanaCarta {
+    -fx-background-image: url(@../../../com/mycompany/imagen/table.jpg)
+}
+
+#btnNuevo {
+    -fx-background-color:#eebf96;
+}
+
+#btnVer {
+    -fx-background-color:#eebf96;
+}
+
+#btnSalir {
+    -fx-background-color:#eebf96;
+}
+
+#hora {
+    -fx-text-fill:white;
+}
+
+.ventanaPedido {
+    -fx-background-image: url(@../../../com/mycompany/imagen/pizza.jpg)
+}
+
+#btnRealizar {
+    -fx-background-color:#eebf96;
+}
+
+#btnVolver {
+    -fx-background-color:#eebf96;
+}
+
+.ventanaLista {
+    -fx-background-image: url(@../../../com/mycompany/imagen/lista.jpg)
+}
